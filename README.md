@@ -356,6 +356,16 @@ The registry also records an AI smoke check from 2026-10-23. It was run by the s
 
 Released under the [MIT License](LICENSE). Copyright (c) 2026 Abhishek Adhikari.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=whoisabhishekadhikari%2Fseo-skills&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=whoisabhishekadhikari/seo-skills&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=whoisabhishekadhikari/seo-skills&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whoisabhishekadhikari/seo-skills&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Author
 
-Maintained by [Abhishek Adhikari](https://github.com/WHOISABHISHEKADHIKARI). Skills originate from the [100SEOTools](https://github.com/WHOISABHISHEKADHIKARI/100seotools) project.
+Maintained by [Abhishek Adhikari](https://github.com/WHOISABHISHEKADHIKARI). Skills originate from the [100SEOTools](https://www.100seotools.com) project.
